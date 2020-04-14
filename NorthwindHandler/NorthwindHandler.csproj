@@ -91,8 +91,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\NorthwindHandler\NorthwindDAL\NorthwindDAL.csproj">
-      <Project>{c28030f5-8f69-4c1e-a2fe-b0937a287a6f}</Project>
+    <ProjectReference Include="..\NorthwindDAL\NorthwindDAL.csproj">
+      <Project>{a989492b-acc4-4829-a4c4-67098d235bc2}</Project>
       <Name>NorthwindDAL</Name>
     </ProjectReference>
   </ItemGroup>
