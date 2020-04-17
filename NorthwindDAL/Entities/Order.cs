@@ -22,7 +22,7 @@ namespace NorthwindDAL.Entities
         public string ShipPostalCode { get; set; }
         public string ShipCountry { get; set; }
 
-        public Statuses Status { get; private set; }
+        public Statuses Status { get; set; }
 
         public Order()
         {
